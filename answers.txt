@@ -1,0 +1,20 @@
+2
+1) Sydney ,2) Melbourne ,3) Canberra;,4) Brisbane
+1
+1) William Shakespeare;,2) Charles Dickens ,3) Jane Austen ,4) Fyodor Dostoevsky 
+2
+1) Au;,2) Ag ,3) Hg ,4) Pb
+3
+1) Venus ,2) Mars;,3) Jupiter ,4) Saturn
+2
+1) Liver ,2) Heart ,3) Skin;,4) Brain
+3
+1) Da Vinci;,2) Vincent van Gogh ,3) Pablo Picasso ,4) Michelangelo
+1
+1) Mount Everest;,2) K2 ,3) Kangchenjunga ,4) Mount Kilimanjaro
+1
+1) Hydrogen;,2) Helium ,3) Oxygen ,4) Carbon
+2
+1) Cherry Blossom;,2) Orchid ,3) Lotus ,4) Rose
+3
+1) Amazon ,2) Yangtze ,3) Nile;,4) Mississippi
