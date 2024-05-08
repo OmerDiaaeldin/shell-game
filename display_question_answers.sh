@@ -17,12 +17,12 @@ do
     points=$(cat answers.txt | sed -n ${pointsLine}p)
     answer=0
     counter=0
-    for i in $(head -n ${choicesLine} answers.txt | tail -n -1 | tr "," "\n")
+    for i in $(head -n ${choicesLine} answers.txt | tail -n -1 | tr " " "_" |tr "," "\n")
     do
         counter=$((counter+1));
         if [ ${i:0-1} = ";" ]
         then
-            answer=$((counter/2))
+            answer=$(counter)
         fi
     done
 
