@@ -22,7 +22,7 @@ do
         counter=$((counter+1));
         if [ ${i:0-1} = ";" ]
         then
-            answer=$(counter)
+            answer=$((counter))
         fi
     done
 
